@@ -1,7 +1,7 @@
 # DDIRE
-my research about drug-drug interaction relation extraction 
+My research about drug-drug interaction relation extraction.
 
-##  schedule 
+##  Schedule 
 ### To know the data,I must read papers as follows:
 
  - SemEval-2013 Task 9：Extraction of Drug-Drug Interactions from
